@@ -8,7 +8,7 @@
 - 6/7 people total
 	- 1 private office
 		- Owner/Tenant open to reevaluate the entire enclosure around office, using polycarbonate panels.  That is,  demoing the (3) existing drywall walls and door/trim/sidelight and creating a cost-effective ([unistrut](https://www.google.com/search?q=unistrut&rlz=1C1CHFX_enUS591US591&biw=1920&bih=955&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-1eWwmfPMAhUm44MKHUEpBpIQ_AUICCgC)), unique "element" within the space.
-			- Perhaps to save costs, we could demo the walls up to where the wall meets the ACT line (save the ACT in the office).  We could header this portion off, with kickers from the wall back to the slab, and the polycarbonate could start from there down to the floor.
+			- The entire south and east walls of the interior office will have sidelights installed using either polycarbonate materil or glass. 
 			- They would like a few selective areas to be glass, however, as to have a small view to the exterior and perhaps one within door (glass inset), to see inside office.
 			- The cost of this approach might be prohibitive, however.  With that in mind, let's have alternate fall back plan in mind--that is, reusing doors and sidelights, etc.
 		- Could potentially be a barn door type of door into office, as well.
